@@ -51,7 +51,7 @@ Teams should strive for winning 56 games or more in a season to statistically re
     win games. Deeper look into this might suggest team can stay focus and speaks to pyshcology of said team. 
     Also, look into if when the largest margin occur and take a closer look.
     
-### Surprising Findings
+## Surprising Data!
 
 #### *Offensive Rebounds*
     - "Traditional" thought is more offensive rebounds lead to more points, but that in this case 
