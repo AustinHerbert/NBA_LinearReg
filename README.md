@@ -37,12 +37,12 @@ Teams should strive for winning 56 games or more in a season to statistically re
 
 ## New Features Linear Regression Model
 ![lm](https://user-images.githubusercontent.com/64975026/84214631-8eb9bc80-aa89-11ea-8e1b-276368c4c858.png)
-## What can Teams take away from this anaysis?
+# What can Teams take away from this anaysis?
 
 #### *Convert 2PT Atempts efficiently*
     - This is obvious, but if team brought up a shot chart they could dive deeper into this feature that has known
     statistical relevance. Ananlze past games to eliminate low individual 2PT shots.
-#### *Assist to Total Points*
+#### *Assist to Total Points Matters*
     - Typically teams want a superstar, but if that Free Agent is known to have low assists, might want to head 
     another direction. Again, deeper dive, I would look to see the assist totals from prior team based on if said 
     player was on the floor or off the floor.
