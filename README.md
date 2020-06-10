@@ -40,27 +40,27 @@ Teams should strive for winning 56 games or more in a season to statistically re
 ## What can Teams take away from this anaysis?
 
 #### *Convert 2PT Atempts efficiently*
-    - This is obvious, but if team brought up a shot chart they could dive deeper and see what number of far 2PT 
-    shot should be eliminated. Main focus here is to establish which areas to focus on.
-#### *Sharing the Ball to Score*
-    - Typically teams want superstars, but if that Free Agent is known to have low assist, might want to head 
-    another direction. Again, deeper dive into this for individual team, I would look to see the assit totals 
-    for the team based on if said player was on the floor.
+    - This is obvious, but if team brought up a shot chart they could dive deeper into this feature that has known
+    statistical relevance. Ananlze past games to eliminate low individual 2PT shots.
+#### *Assist to Total Points*
+    - Typically teams want a superstar, but if that Free Agent is known to have low assists, might want to head 
+    another direction. Again, deeper dive, I would look to see the assist totals from prior team based on if said 
+    player was on the floor or off the floor.
 #### *Outscoring by Wide Margin*
-    - This is the most obvious, if you score more than the other team by a wide margin means you are going to 
-    win games. Deeper look into this might suggest team can stay focus and speaks to pyshcology of said team. 
-    Also, look into if when the largest margin occur and take a closer look.
+    - This is the most obvious, if you score more points than the other team by a wide margin that means you are 
+    going to win games. Deeper look into this might suggest that a team can stay focused and speaks to pyshcology 
+    of said team. Also, look into when the largest margin occur & why.
     
 ## Surprising Data!
 
 #### *Offensive Rebounds*
-    - "Traditional" thought is more offensive rebounds lead to more points, but that in this case 
+    - "Traditional" thought is more offensive rebounds lead to more scoring chances, but in this case,
     doesn't appear to show in the data.
 #### *Turnover Differential* 
-    - "Traditional" thought is win the turnover battle, win the game. Data suggest otherwise. One reason 
-    could be that not every BLK turns into a turnover.
+    - "Traditional" thought is win the turnover battle, win the game. Data suggest otherwise. Edge case for 
+    this stat could be that not every BLK turns into a turnover.
 #### *3P%*
-    - "Traditional" thought is 3's are worth more than 2's so if you shot a higher % the result would 
-    be positivly correlated.
+    - "Traditional" thought is 3 pointers are worth more than 2 pointers, therefore if you shot a higher 3% the 
+    result would be positivly correlated to wins. This feature had a NEGATIVE correlation with wins.
     
 
