@@ -1,6 +1,6 @@
 # NBA : Why Isn't My Team making the Playoffs?
 
-### * *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
+### *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
 
 ## Wins to Make Playoffs Based on past 32 NBA Season 
 - The avg team wins ~49 games
