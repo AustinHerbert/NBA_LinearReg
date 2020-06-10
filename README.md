@@ -2,7 +2,7 @@
 
 ### *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
 
-## Wins to Make Playoffs Based on past 32 NBA Season 
+## Wins to Make Playoffs Based on Past 32 NBA Season 
 - The avg team wins ~49 games
 - 50% of Playoff teams fall inbetween 42 & 56 wins
 ![win_boxplot](https://user-images.githubusercontent.com/64975026/84214634-8feae980-aa89-11ea-9368-b1dd59a550e7.png)
@@ -37,7 +37,7 @@ Teams should strive for winning 56 games or more in a season to statistically re
 
 ## New Features Linear Regression Model
 ![lm](https://user-images.githubusercontent.com/64975026/84214631-8eb9bc80-aa89-11ea-8e1b-276368c4c858.png)
-# What can Teams take away from this anaysis?
+# What can Teams Take Away from this Anaysis?
 
 #### *Convert 2PT Atempts efficiently*
     - This is obvious, but if team brought up a shot chart they could dive deeper into this feature that has known
