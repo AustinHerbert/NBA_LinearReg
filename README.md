@@ -1,12 +1,11 @@
 # NBA : Why Isn't My Team making the Playoffs?
 
-## * *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
+### * *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
 
-boxplot
-
-# Wins to Make Playoffs Based on past 32 NBA Season 
+## Wins to Make Playoffs Based on past 32 NBA Season 
 - The avg team wins ~49 games
-- Most teams fall inbetween 42 & 56 wins
+- 50% of Playoff teams fall inbetween 42 & 56 wins
+![win_boxplot](https://user-images.githubusercontent.com/64975026/84214634-8feae980-aa89-11ea-9368-b1dd59a550e7.png)
 
 Teams should strive for winning 56 games or more in a season to statistically rely on making the Playoffs. Teams that started off slow can infer from this data that is 42 games is within striking distance, they still have a decent statistical chance of making the Playoffs.
 
@@ -20,7 +19,8 @@ Teams should strive for winning 56 games or more in a season to statistically re
 - TO diff ((blk + stl)- TO) 
 - Pt diff (pts-opp pts)
 
-scatter
+
+![Scatter](https://user-images.githubusercontent.com/64975026/84214633-8eb9bc80-aa89-11ea-842f-8f2398f64c9d.png)
 
 
 # Conclusions:
@@ -35,6 +35,8 @@ scatter
 
 ##### *ONE Win could be the difference between 2nd season and going home early!*
 
+## New Features Linear Regression Model
+![lm](https://user-images.githubusercontent.com/64975026/84214631-8eb9bc80-aa89-11ea-8e1b-276368c4c858.png)
 ## What can Teams take away from this anaysis?
 
 #### Convert 2PT Atempts efficiently
@@ -47,16 +49,18 @@ scatter
 #### Outscoring by Wide Margin 
     - This is the most obvious, if you score more than the other team by a wide margin means you are going to 
     win games. Deeper look into this might suggest team can stay focus and speaks to pyshcology of said team. 
-    Also, look into if when the largest margin occur and take a closer look
+    Also, look into if when the largest margin occur and take a closer look.
     
 ### Surprising Findings
 
 #### Offensive Rebounds
-    - "Traditional" thought is more offensive rebounds lead to more points, but that in this case doesn't appear 
-    to show in the data
+    - "Traditional" thought is more offensive rebounds lead to more points, but that in this case 
+    doesn't appear to show in the data.
 #### Turnover Differential 
-    - "Traditional" thought is win the turnover battle, win the game. Data suggest otherwise. One reason could be 
-    that not every BLK turns into a turnover
+    - "Traditional" thought is win the turnover battle, win the game. Data suggest otherwise. One reason 
+    could be that not every BLK turns into a turnover.
 #### 3P%
-    - "Traditional" thought is 3's are worth more than 2's so if you shot a higher % the result would be positivly
-    correlated
+    - "Traditional" thought is 3's are worth more than 2's so if you shot a higher % the result would 
+    be positivly correlated.
+    
+
