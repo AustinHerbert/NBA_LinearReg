@@ -7,7 +7,7 @@
 - 50% of Playoff teams fall inbetween 42 & 56 wins
 ![win_boxplot](https://user-images.githubusercontent.com/64975026/84214634-8feae980-aa89-11ea-9368-b1dd59a550e7.png)
 
-Teams should strive for winning 56 games or more in a season to statistically rely on making the Playoffs. Teams that started off slow can infer from this data that is 42 games is within striking distance, they still have a decent statistical chance of making the Playoffs.
+Teams should strive for winning 56 games or more in a season to statistically rely on making the Playoffs. Teams that started off slow, can infer that if 42 games is within striking distance, they still have a decent statistical chance of making the Playoffs.
 
 # Exploratory Data Analysis: Determine How to Get Wins 
 ## New Features
