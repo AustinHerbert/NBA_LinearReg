@@ -77,3 +77,14 @@ Teams should strive for winning 56 games or more in a season to statistically re
     accuracy                           0.91       216
 
 ###### * I took out wins as a feature because I felt like that would make it to easy for the algo to determine if a team made the playoffs since we already establish a rough estimate on how many wins it takes. 
+
+## *Random Forest Model*
+###  *Model Predicted 92% of Teams Correctly Based on NBA_Feat increasing Log Reg model*
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.89      0.91        97
+           1       0.91      0.94      0.93       119
+
+    accuracy                           0.92       216
+ 
