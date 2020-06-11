@@ -1,4 +1,5 @@
 # NBA : Why Isn't My Team making the Playoffs?
+###### * Additional Model Results are added at the bottom 
 
 ### *Model explained ~ 94% of actual wins per team with a 3-win standard deviation compared to 7.5 with raw data!*
 
