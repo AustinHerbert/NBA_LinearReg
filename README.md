@@ -63,4 +63,17 @@ Teams should strive for winning 56 games or more in a season to statistically re
     - "Traditional" thought is 3 pointers are worth more than 2 pointers, therefore if you shot a higher 3% the 
     result would be positivly correlated to wins. This feature had a NEGATIVE correlation with wins.
     
+# Cross-Verified Results
 
+## *Logistic Regression Model*
+
+###  *Model Predicted 91% of Teams Correctly Based on NBA_Feat from Above*
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.88      0.90        97
+           1       0.90      0.94      0.92       119
+
+    accuracy                           0.91       216
+
+###### * I took out wins as a feature because I felt like that would make it to easy for the algo to determine if a team made the playoffs since we already establish a rough estimate on how many wins it takes. 
